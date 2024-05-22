@@ -23,8 +23,8 @@ The University Hub Application is designed to facilitate communication and manag
 
 1. **Clone the repository**
    ```bash
-   git clone https://.git
-   cd university-app
+   git clone  https://github.com/BatoolZK/uhbapp.git
+   cd uhbapp-main
 
 2. **Install dependencies**
    ```bash
